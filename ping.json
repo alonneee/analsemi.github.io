@@ -1,0 +1,13 @@
+{
+    "query": [
+        {
+            "number": 1,
+            "name": "Blast",
+            "ip": "151.80.47.186",
+            "port": 2111,
+            "maxplayers": 50,
+            "online": 1,
+            "password": false
+        }
+    ]
+}
